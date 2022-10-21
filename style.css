@@ -533,6 +533,7 @@ footer{
         left: 0vw;
         justify-content: center;
         transition: 0s;
+        transform: translateX(-100%);
     
 
     }
