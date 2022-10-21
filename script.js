@@ -3,7 +3,8 @@ const reset = document.querySelector("#reset");
 
 const hiddenColTwo = () =>{
     const colTwo = document.querySelector(".column.two");
-    colTwo.style.transform = ("translateX(0%)");
+    colTwo.style.transform = ("translateX(-1000%)");
+0%)");
     
 }
 hiddenColTwo()
