@@ -524,26 +524,26 @@ footer{
     }
   
     .column.two{
-        background-color: green;
+        background-color: black;
         top: 0vh;
         height: 100vh;
-        margin: 0; 
+        margin: 0;
+        left: 0vw;
         width: 100%;
         justify-content: center;
         transition: 0s;
-        tranform: translateX(-100%);
+       
     
 
     }
     .column.two ul li{
-        transform: translateX(-100%);
         display: flex;
         flex-direction: column;
         justify-content: center;
         margin-bottom: 20px;
         font-size: 30px;
         align-items: center;
-        transition: transform 0.1s ease-in;
+        transition: transform 0.4s ease-in;
         
     }
   
