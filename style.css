@@ -524,14 +524,14 @@ footer{
     }
   
     .column.two{
-        background-color: red;
+        background-color: green;
         top: 0vh;
         height: 100vh;
         margin: 0; 
         width: 100%;
         justify-content: center;
         transition: 0s;
-        tranform: translateX(-100%);
+        tranform: translateX(0%);
     
 
     }
