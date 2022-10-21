@@ -531,18 +531,19 @@ footer{
         width: 100%;
         justify-content: center;
         transition: 0s;
-        
+        tranform: translateX(-100%);
     
 
     }
     .column.two ul li{
         display: flex;
         flex-direction: column;
-        justify-content: right;
+        justify-content: center;
+        tranform: translateX(-100%);
         margin-bottom: 20px;
         font-size: 30px;
         align-items: center;
-        transition: transform 0.9s ease-in;
+        transition: transform 0.1s ease-in;
         
     }
   
