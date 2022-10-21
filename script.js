@@ -5,7 +5,7 @@ const hiddenColTwo = () =>{
     const colTwo = document.querySelector(".column.two");
     colTwo.style.transform = ("translateX(-100%)");  
 }
-hiddenColTwo()
+
 
 burger.addEventListener("click",()=>{
     const colTwo = document.querySelector(".column.two");
