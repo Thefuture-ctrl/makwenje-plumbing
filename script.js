@@ -20,5 +20,5 @@ reset.addEventListener("click",()=>{
     colThree.style.display = ("grid");
   
 })
-
+hiddenColTwo();
 
