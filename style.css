@@ -526,12 +526,13 @@ footer{
     .column.two{
         background-color: green;
         top: 0vh;
+        position: absolute;
         height: 100vh;
         margin: 0; 
         width: 100%;
         justify-content: center;
         transition: 0s;
-        tranform: translateX(0%);
+        tranform: translateX(-100%);
     
 
     }
@@ -539,7 +540,6 @@ footer{
         display: flex;
         flex-direction: column;
         justify-content: center;
-        tranform: translateX(-100%);
         margin-bottom: 20px;
         font-size: 30px;
         align-items: center;
