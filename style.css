@@ -526,7 +526,6 @@ footer{
     .column.two{
         background-color: green;
         top: 0vh;
-        position: absolute;
         height: 100vh;
         margin: 0; 
         width: 100%;
