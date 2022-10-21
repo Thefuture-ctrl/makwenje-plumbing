@@ -536,6 +536,7 @@ footer{
 
     }
     .column.two ul li{
+        transform: translateX(-100%);
         display: flex;
         flex-direction: column;
         justify-content: center;
